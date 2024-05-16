@@ -1,0 +1,15 @@
+DE:valor;1 , valor;2
+DS;resultado1, resultado, suma , resta, multiplicacion, division
+
+1. inicio
+2. leer valor 1
+3. leer valor 2
+4. hacer valor 1 diferente a valor 2
+5. mostrar resultado 
+6. hacer valor 1 restando a valor 2
+7. mostrar resultado
+8. hacer valor 1 en multiplicacion a valor 2
+9. mostrar resultado
+10. hacer valor 1 division a valor 2
+11. mostrar resultado
+12. Fin
